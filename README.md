@@ -1,2 +1,2 @@
 # ip-cloud
-Rando mfs ip's
+Random mfs ip's
